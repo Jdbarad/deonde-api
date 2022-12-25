@@ -43,6 +43,10 @@ https://user-images.githubusercontent.com/93068379/209436043-6aba4ccb-354d-43be-
 ## App Link
 - <a href="https://drive.google.com/file/d/1zYVsRrz6AolhY-D-Ys-T6bW7kCmGbFX0/view?usp=share_link">Download</a>
 
+## Other Projects 
+- <a href="https://github.com/Jdbarad/Play-with-Dots">Play With Dots</a>
+- <a href="https://github.com/Jdbarad/Api-App-with-Search">Elsnerdev-Api with Search</a>
+- <a href="https://github.com/Jdbarad/News-App-Android">News-Api with Social Sign-in</a>
 
 ## Developed By
 ### [Jaypalsinh Barad](https://jdbarad.github.io/)
